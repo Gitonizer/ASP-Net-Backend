@@ -1,0 +1,33 @@
+### Get all todos
+GET http://localhost:5251/todos
+
+### Get todo with id=1
+GET http://localhost:5251/todos/1
+
+### Post new todo
+POST http://localhost:5251/todos
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "Write a demo",
+    "dueDate": "2024-12-31",
+    "isCompleted": false
+}
+
+### Post invalid todo caught by endpoint filter
+POST http://localhost:5251/todos
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "Write a demo",
+    "dueDate": "2022-12-31",
+    "isCompleted": true
+}
+
+### Delete todo with id=1
+DELETE http://localhost:5251/todos/1
+
+### task endpoint to be redirected by middleware
+GET http://localhost:5251/tasks/1

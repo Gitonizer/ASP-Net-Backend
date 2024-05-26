@@ -1,0 +1,25 @@
+C:\Bruno\Github\ASP Net Backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Bruno\Github\ASP Net Backend\bin\Debug\net8.0\appsettings.json
+C:\Bruno\Github\ASP Net Backend\bin\Debug\net8.0\ASP Net Backend.exe
+C:\Bruno\Github\ASP Net Backend\bin\Debug\net8.0\ASP Net Backend.deps.json
+C:\Bruno\Github\ASP Net Backend\bin\Debug\net8.0\ASP Net Backend.runtimeconfig.json
+C:\Bruno\Github\ASP Net Backend\bin\Debug\net8.0\ASP Net Backend.dll
+C:\Bruno\Github\ASP Net Backend\bin\Debug\net8.0\ASP Net Backend.pdb
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\ASP Net Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\ASP Net Backend.AssemblyInfoInputs.cache
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\ASP Net Backend.AssemblyInfo.cs
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\ASP Net Backend.csproj.CoreCompileInputs.cache
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\ASP Net Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\staticwebassets\msbuild.ASP Net Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP Net Backend.props
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP Net Backend.props
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP Net Backend.props
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\scopedcss\bundle\ASP Net Backend.styles.css
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\ASP Net Backend.dll
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\refint\ASP Net Backend.dll
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\ASP Net Backend.pdb
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\ASP Net Backend.genruntimeconfig.cache
+C:\Bruno\Github\ASP Net Backend\obj\Debug\net8.0\ref\ASP Net Backend.dll
